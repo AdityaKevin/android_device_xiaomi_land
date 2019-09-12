@@ -15,3 +15,8 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/reloaded_land.mk
+
+COMMON_LUNCH_CHOICES := \
+    potato_land-userdebug \
+    potato_land-user \
+    potato_land-eng
