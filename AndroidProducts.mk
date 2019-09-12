@@ -14,7 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/reloaded_land.mk
+    $(LOCAL_DIR)/potato_land.mk
 
 COMMON_LUNCH_CHOICES := \
     potato_land-userdebug \
