@@ -1,1 +1,2 @@
 type tmp_root_mount_file, file_type;
+type avb_file, file_type;
