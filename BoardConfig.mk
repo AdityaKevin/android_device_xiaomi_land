@@ -242,7 +242,7 @@ PRODUCT_FULL_TREBLE_OVERRIDE := true
 # System as root
 BOARD_BUILD_SYSTEM_ROOT_IMAGE := true
 BOARD_KERNEL_CMDLINE += skip_initramfs rootwait ro init=/init
-BOARD_KERNEL_CMDLINE += dm=\"system none ro,0 1 android-verity /dev/mmcblk0p49\"
+BOARD_KERNEL_CMDLINE += dm=\"system none ro,0 1 android-verity /dev/mmcblk0p24\"
 
 # Wi-Fi
 BOARD_HAS_QCOM_WLAN := true
